@@ -8,3 +8,9 @@ print(s[0])
 print('{} {}'.format('one', 'two'))
 
 print('{:100}'.format('test'))
+
+print('{:_>10}'.format('test'))
+
+print('{:_^10}'.format('test'))
+
+print('This a test value:''{x:}'.format(x='test'))
