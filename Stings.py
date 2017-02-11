@@ -1,7 +1,8 @@
 print ('This is also a string')
 
 print(len('Satyajit Das you should leann Data Science within 2 Months of time'))
-
 s = 'Hello World'
+print(s[0])
 
-len(s)
+
+print('{} {}'.format('one', 'two'))
