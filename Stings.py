@@ -6,3 +6,5 @@ print(s[0])
 
 
 print('{} {}'.format('one', 'two'))
+
+print('{:100}'.format('test'))
