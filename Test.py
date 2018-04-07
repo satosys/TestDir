@@ -16,3 +16,8 @@ print ('The script is called ', second)
 print ('The script is called ', third)
 
 print ('The script is called ', third)
+
+/ *This is really
+a
+good
+ide
